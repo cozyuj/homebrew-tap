@@ -2,8 +2,7 @@ cask "ai-office" do
   version "0.25.0"
   sha256 "3b456cef6552cbe19ca65b6fae395f78c717873328948acdc936673f1d2def03"
 
-  url "https://github.com/cozyuj/AI-office/releases/download/v#{version}/AI.Office_#{version}_aarch64.dmg",
-      verified: "github.com/cozyuj/AI-office/"
+  url "https://github.com/cozyuj/AI-office/releases/download/v#{version}/AI.Office_#{version}_aarch64.dmg"
   name "AI Office"
   desc "Isometric office that visualizes Claude Code sessions in real time"
   homepage "https://github.com/cozyuj/AI-office"
