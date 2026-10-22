@@ -1,6 +1,6 @@
 cask "ai-office" do
-  version "0.25.6"
-  sha256 "625edd1a1f121bf46da70a222410637f6ee10663633c3a06c3015ab94cb04f2d"
+  version "0.28.0"
+  sha256 "10b263546905e2dbb6ae1e8f71c4118667ffe0d29fa172666ea37616b198d09f"
 
   url "https://github.com/cozyuj/AI-office/releases/download/v#{version}/AI.Office_#{version}_aarch64.dmg"
   name "AI Office"
