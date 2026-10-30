@@ -1,8 +1,8 @@
 class ClaudeAiOffice < Formula
   desc "Isometric office that visualizes Claude Code sessions (web version CLI)"
   homepage "https://github.com/cozyuj/AI-office"
-  url "https://registry.npmjs.org/claude-ai-office/-/claude-ai-office-0.37.7.tgz"
-  sha256 "021329687aaa36847ea0bc1f810f452261d58c9c61c8d81e854a3557e5bca3c3"
+  url "https://registry.npmjs.org/claude-ai-office/-/claude-ai-office-0.38.0.tgz"
+  sha256 "1a05da300f18df73b1b51b1a7f511501c42ecdaa8b26b0890f222651889fa9d2"
   license "MIT"
 
   depends_on "node"
